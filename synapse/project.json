@@ -1,0 +1,9 @@
+{
+  "name": "Synapse",
+  "category": "dex",
+  "website": "https://www.synapseprotocol.com/landing",
+  "logo": "logo.png",
+  "background": "#161618",
+  "foreground": "#ffb313",
+  "network": "ethereum"
+}
